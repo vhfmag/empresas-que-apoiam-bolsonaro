@@ -5,7 +5,7 @@ title: "Empresas que apoiam Bolsonaro"
 
 Essa é uma lista de código aberto [com que você contribuir também, aqui](https://github.com/vhfmag/empresas-que-apoiam-bolsonaro), baseado em [um projeto similar](https://github.com/hankchizljaw/companies-that-work-with-ice).
 
-## The Companies
+## As empresas
 
 {% for company in companies %}
 
