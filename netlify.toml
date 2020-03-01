@@ -1,3 +1,7 @@
 [build]
   command = "eleventy"
   publish = "dist"
+
+[[redirects]]
+  from = "https://empresas-que-apoiam-bolsonaro.netlify.com/*"
+  to = "https://empresas-que-apoiam-bolsonaro.com/:splat"
