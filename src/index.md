@@ -8,7 +8,9 @@ Essa é uma lista de código aberto [com que você contribuir também, aqui](htt
 ## As empresas
 
 {% for company in companies %}
+{% if company.fonte %}
 
 - {{ company.empresa }} ([fonte]({{company.fonte}}))
 
+{% endif %}
 {% endfor %}
