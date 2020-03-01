@@ -1,17 +1,17 @@
-# Companies that work with ICE
+# Empresas que apoiam Bolsonaro
 
-🌍 <https://companies-that-work-with-ice.com>
+🌍 <https://empresas-que-apoiam-bolsonaro.netlify.com>
 
-This is an open source project which uses the [The Hippocratic License](https://firstdonoharm.dev/).
+Esse é um projeto de código aberto que usa [A Licença Hipocrática](https://firstdonoharm.dev/).
 
-## Contributing 
+## Contribuindo
 
 To add or change a company: 
 
-1. Fork this repo ([guide](https://help.github.com/en/articles/fork-a-repo))
-2. Edit `src/index.md`
-3. Create a pull request ([guide](https://help.github.com/en/articles/creating-a-pull-request))
+1. Fork esse repositório ([guide](https://help.github.com/en/articles/fork-a-repo))
+2. Edite `src/_data/companies.json_`
+3. Crie uma pull request ([guide](https://help.github.com/en/articles/creating-a-pull-request))
 
 --- 
 
-A project by [Andy Bell](https://twitter.com/hankchizljaw)
+Um projeto por [Victor Magalhães](https://twitter.com/vhfmag)

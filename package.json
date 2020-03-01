@@ -1,11 +1,11 @@
 {
-  "name": "companies-that-work-with-ice",
+  "name": "empresas-que-apoiam-bolsonaro",
   "version": "1.0.0",
   "description": "",
   "main": ".eleventy.js",
   "scripts": {
-    "start": "npx eleventy --serve",
-    "build": "npx eleventy"
+    "start": "eleventy --serve",
+    "build": "eleventy"
   },
   "keywords": [],
   "author": "",
