@@ -5,7 +5,7 @@
   "main": ".eleventy.js",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy && cp src/_redirects dist/"
+    "build": "eleventy"
   },
   "keywords": [],
   "author": "",
