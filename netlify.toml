@@ -3,5 +3,7 @@
   publish = "dist"
 
 [[redirects]]
-  from = "https://empresas-que-apoiam-bolsonaro.netlify.com/*"
-  to = "https://empresas-que-apoiam-bolsonaro.com/:splat"
+  from = "https://empresas-que-apoiam-bolsonaro.netlify.com/"
+  to = "https://empresas-que-apoiam-bolsonaro.com/"
+  status = 301
+  force = true
