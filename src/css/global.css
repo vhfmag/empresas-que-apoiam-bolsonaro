@@ -2,11 +2,29 @@ body {
   font-family: Georgia, serif;  
   font-size: 1.3rem;
   line-height: 1.5;
-  background: #dedede;
-  color: #252525;
   padding: 3rem 1.5rem;
   max-width: 38rem;
   margin: 0 auto;
+
+  --light-color: #dedede;
+  --dark-color: #252525;
+
+  --bg-color: var(--light-color);
+  --text-color: var(--dark-color);
+
+  /* fallback */
+  background-color: #dedede;
+  color: #252525;
+  /* themed colors */
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    --bg-color: var(--dark-color);
+    --text-color: var(--light-color);
+  }
 }
 
 h1, h2, h3, p, ul {
