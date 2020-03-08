@@ -40,10 +40,6 @@ a {
   outline-offset: 4px;
 }
 
-:hover {
-  text-decoration: none;
-}
-
 article > * + * {
   margin-top: 1em;
 }
