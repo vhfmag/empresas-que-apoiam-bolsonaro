@@ -65,13 +65,8 @@ h2 {
 
 ul {
   padding-left: 1em;
-}
-
-@media(min-width:32em){
-  ul {
-    column-count: 2;
-    column-gap: 40px;
-  }
+  column-width: 20ch;
+  column-gap: 2em;
 }
 
 li + li {
