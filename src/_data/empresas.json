@@ -1,69 +1,202 @@
 [
-	{
-		"nome": "Havan",
-		"fonte": "https://archive.is/eSqGt"
-	},
-	{
-		"nome": "Riachuelo",
-		"fonte": "https://archive.is/eSqGt"
-	},
-	{
-		"nome": "Centauro",
-		"fonte": "https://archive.is/eSqGt"
-	},
-	{
-		"nome": "Polishop",
-		"fonte": "https://archive.is/eSqGt"
-	},
-	{ "nome": "Ricardo Eletro", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Habib’s", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Ragazzo", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Drogasil", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Estácio", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Estrela", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Marisol", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Óticas Carol", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Hemmer", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Localiza", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Bioritmo", "relatadaEm": "https://archive.is/owV4l" },
-	{ "nome": "Marisa", "relatadaEm": "https://archive.is/VLCCU" },
-	{ "nome": "Natura", "relatadaEm": "https://archive.is/VLCCU" },
-	{ "nome": "Ana Hickimann", "relatadaEm": "https://archive.is/VLCCU" },
-	{ "nome": "Livraria Cultura", "relatadaEm": "https://archive.is/VLCCU" },
-	{
-		"nome": "Gocil",
-		"fonte": "https://archive.is/eSqGt"
-	},
-	{
-		"nome": "Coco Bambu",
-		"fonte": "https://archive.is/eSqGt"
-	},
-	{
-		"nome": "Beauty’in",
-		"fonte": "https://archive.is/igX0b"
-	},
-	{
-		"nome": "Shark Tank Brasil",
-		"fonte": "https://archive.is/eSqGt"
-	},
-	{
-		"nome": "Galápagos Capital Gestora de Fundos",
-		"fonte": "https://archive.is/igX0b"
-	},
-	{
-		"nome": "BNZ",
-		"fonte": "https://archive.is/igX0b"
-	},
-	{
-		"nome": "Instituto Eu Amo o Brasil",
-		"fonte": "https://archive.is/igX0b"
-	},
-	{
-		"nome": "Madero (de Junior Durski)",
-		"fonte": "https://archive.is/BfWV1"
-	},
-	{
-		"nome": "Jerônimo (de Junior Durski)",
-		"fonte": "https://archive.is/BfWV1"
-	}
+  {
+    "nome": "Ale",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Ambev",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Ana Hickimann",
+    "relatadaEm": "https://archive.is/VLCCU"
+  },
+  {
+    "nome": "Anjos Convênios",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Arabian Bread",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "artefacto",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Avon",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Banco Bozano Simonsen",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Barilla",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Beauty’in",
+    "fonte": "https://archive.is/igX0b"
+  },
+  {
+    "nome": "Bioritmo",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "BNZ",
+    "fonte": "https://archive.is/igX0b"
+  },
+  {
+    "nome": "Bozano Investimentos",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "bytenis",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Centauro",
+    "fonte": "https://archive.is/eSqGt"
+  },
+  {
+    "nome": "Coco Bambu",
+    "fonte": "https://archive.is/eSqGt"
+  },
+  {
+    "nome": "Droga Raia",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Drogasil",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Dudalu",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Estácio",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Estrela",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Galápagos Capital Gestora de Fundos",
+    "fonte": "https://archive.is/igX0b"
+  },
+  {
+    "nome": "Gazin",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "General Optical",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Gocil",
+    "fonte": "https://archive.is/eSqGt"
+  },
+  {
+    "nome": "Habib’s",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Havan",
+    "fonte": "https://archive.is/eSqGt"
+  },
+  {
+    "nome": "Hemmer",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Ibmec",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Instituto Eu Amo o Brasil",
+    "fonte": "https://archive.is/igX0b"
+  },
+  {
+    "nome": "Jerônimo (de Junior Durski)",
+    "fonte": "https://archive.is/BfWV1"
+  },
+  {
+    "nome": "JR Diesel",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Livraria Cultura",
+    "relatadaEm": "https://archive.is/VLCCU"
+  },
+  {
+    "nome": "Localiza Hertz",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Madero (de Junior Durski)",
+    "fonte": "https://archive.is/BfWV1"
+  },
+  {
+    "nome": "Marabraz",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Marisa",
+    "relatadaEm": "https://archive.is/VLCCU"
+  },
+  {
+    "nome": "Marisol",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Multilaser",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Natura",
+    "relatadaEm": "https://archive.is/VLCCU"
+  },
+  {
+    "nome": "Óticas Carol",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Polishop",
+    "fonte": "https://archive.is/eSqGt"
+  },
+  {
+    "nome": "Purina",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Ragazzo",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Riachuelo",
+    "fonte": "https://archive.is/eSqGt"
+  },
+  {
+    "nome": "Ricardo Eletro",
+    "relatadaEm": "https://archive.is/owV4l"
+  },
+  {
+    "nome": "Shark Tank Brasil",
+    "fonte": "https://archive.is/eSqGt"
+  },
+  {
+    "nome": "Tecnisa",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "UPS",
+    "relatadaEm": "https://archive.is/tnY7g"
+  },
+  {
+    "nome": "Victor Vicenzza",
+    "relatadaEm": "https://archive.is/tnY7g"
+  }
 ]
